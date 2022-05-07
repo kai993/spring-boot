@@ -1,4 +1,4 @@
-package springboot.com.example.restservice;
+package springboot.restservice;
 
 import lombok.Getter;
 
